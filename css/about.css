@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@500&display=swap');
+
+body
+{
+    background: url(../img/1.jpg)
+    no-repeat center center fixed;
+    background-size:cover;
+    color: white;
+    font-family: 'Hind', sans-serif;
+}
+
+h1
+{
+    margin-top:15px;
+}
+
+#coronavirus-img
+{
+    margin-left:350px;
+}
+
+#symptoms
+{
+    margin-left: 265px;
+    width: 800px;
+    height: 500px;
+}
+
+.card
+{
+    color:black;
+}
+
+.corona-img
+{
+    margin-left:41%;
+}
+
+#about_button
+{
+    font-size: 20px;
+    margin-left: 47%;
+    margin-top : 20px;
+    margin-bottom: 20px;
+}

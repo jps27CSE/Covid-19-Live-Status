@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Trispace:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
+body
+{
+    background: url(../img/1.jpg)
+    no-repeat center center fixed;
+    background-size:cover;
+    color: white;
+}
+
+#input_search
+{
+   font-size: 30px;
+   margin-top: 40px;
+}
+
+#back_button
+{
+    font-size: 20px;
+    margin-left: 47%;
+    margin-top : 5px;
+    margin-bottom: 1px;
+}
+
+.text-center
+{
+    margin-top: 20px;
+}
+
+.table_content{
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family: 'Trispace', sans-serif;
+}
+
+#t_case_d_s
+{
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+#c_case_s{
+    margin-left: 18%;
+    margin-bottom: 15px;
+}
+
+.head_of_w
+{
+    font-family: 'Oswald', sans-serif;
+}
+
+.text-center
+{
+    font-family: 'Lato', sans-serif;
+}
