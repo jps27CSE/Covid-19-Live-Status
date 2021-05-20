@@ -31,6 +31,7 @@ function bd() {
         })
 
     setTimeout(bd, 20000);
+
 }
 
 const c_case_w = document.getElementById('c_case_w')
